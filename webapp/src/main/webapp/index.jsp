@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New Registeration for DevOps Learning Classes and Programmes</h1>
+    <h1>New Users Symah and Fahd for DevOps Learning Classes and Programmes</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
